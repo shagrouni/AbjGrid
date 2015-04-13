@@ -1,0 +1,46 @@
+Supplier IDs	ID	Product Code	Product Name	Description	Standard Cost	List Price	Reorder Level	Target Level	Quantity Per Unit	Discontinued	Minimum Reorder Quantity	Category	Attachments
+Supplier D	1	NWTB-1	Northwind Traders Chai		$13.50	$18.00	10	40	10 boxes x 20 bags	No	10	Beverages	0
+Supplier J	3	NWTCO-3	Northwind Traders Syrup		$7.50	$10.00	25	100	12 - 550 ml bottles	No	25	Condiments	0
+Supplier J	4	NWTCO-4	Northwind Traders Cajun Seasoning		$16.50	$22.00	10	40	48 - 6 oz jars	No	10	Condiments	0
+Supplier J	5	NWTO-5	Northwind Traders Olive Oil		$16.01	$21.35	10	40	36 boxes	No	10	Oil	0
+Supplier B, Supplier F	6	NWTJP-6	Northwind Traders Boysenberry Spread		$18.75	$25.00	25	100	12 - 8 oz jars	No	25	Jams, Preserves	0
+Supplier B	7	NWTDFN-7	Northwind Traders Dried Pears		$22.50	$30.00	10	40	12 - 1 lb pkgs.	No	10	Dried Fruit & Nuts	0
+Supplier H	8	NWTS-8	Northwind Traders Curry Sauce		$30.00	$40.00	10	40	12 - 12 oz jars	No	10	Sauces	0
+Supplier B, Supplier F	14	NWTDFN-14	Northwind Traders Walnuts		$17.44	$23.25	10	40	40 - 100 g pkgs.	No	10	Dried Fruit & Nuts	0
+Supplier F	17	NWTCFV-17	Northwind Traders Fruit Cocktail		$29.25	$39.00	10	40	15.25 OZ	No	10	Canned Fruit & Vegetables	0
+Supplier A	19	NWTBGM-19	Northwind Traders Chocolate Biscuits Mix		$6.90	$9.20	5	20	10 boxes x 12 pieces	No	5	Baked Goods & Mixes	0
+Supplier B, Supplier F	20	NWTJP-6	Northwind Traders Marmalade		$60.75	$81.00	10	40	30 gift boxes	No	10	Jams, Preserves	0
+Supplier A	21	NWTBGM-21	Northwind Traders Scones		$7.50	$10.00	5	20	24 pkgs. x 4 pieces	No	5	Baked Goods & Mixes	0
+Supplier D	34	NWTB-34	Northwind Traders Beer		$10.50	$14.00	15	60	24 - 12 oz bottles	No	15	Beverages	0
+Supplier G	40	NWTCM-40	Northwind Traders Crab Meat		$13.80	$18.40	30	120	24 - 4 oz tins	No	30	Canned Meat	0
+Supplier F	41	NWTSO-41	Northwind Traders Clam Chowder		$7.24	$9.65	10	40	12 - 12 oz cans	No	10	Soups	0
+Supplier C, Supplier D	43	NWTB-43	Northwind Traders Coffee		$34.50	$46.00	25	100	16 - 500 g tins	No	25	Beverages	0
+Supplier J	48	NWTCA-48	Northwind Traders Chocolate		$9.56	$12.75	25	100	10 pkgs	No	25	Candy	0
+Supplier B	51	NWTDFN-51	Northwind Traders Dried Apples		$39.75	$53.00	10	40	50 - 300 g pkgs.	No	10	Dried Fruit & Nuts	0
+Supplier A	52	NWTG-52	Northwind Traders Long Grain Rice		$5.25	$7.00	25	100	16 - 2 kg boxes	No	25	Grains	0
+Supplier A	56	NWTP-56	Northwind Traders Gnocchi		$28.50	$38.00	30	120	24 - 250 g pkgs.	No	30	Pasta	0
+Supplier A	57	NWTP-57	Northwind Traders Ravioli		$14.63	$19.50	20	80	24 - 250 g pkgs.	No	20	Pasta	0
+Supplier H	65	NWTS-65	Northwind Traders Hot Pepper Sauce		$15.79	$21.05	10	40	32 - 8 oz bottles	No	10	Sauces	0
+Supplier H	66	NWTS-66	Northwind Traders Tomato Sauce		$12.75	$17.00	20	80	24 - 8 oz jars	No	20	Sauces	0
+Supplier E	72	NWTD-72	Northwind Traders Mozzarella		$26.10	$34.80	10	40	24 - 200 g pkgs.	No	10	Dairy Products	0
+Supplier B, Supplier F	74	NWTDFN-74	Northwind Traders Almonds		$7.50	$10.00	5	20	5 kg pkg.	No	5	Dried Fruit & Nuts	0
+Supplier J	77	NWTCO-77	Northwind Traders Mustard		$9.75	$13.00	15	60	12 boxes	No	15	Condiments	0
+Supplier B	80	NWTDFN-80	Northwind Traders Dried Plums		$3.00	$3.50	50	75	1 lb bag	No	25	Dried Fruit & Nuts	0
+Supplier C	81	NWTB-81	Northwind Traders Green Tea		$2.00	$2.99	100	125	20 bags per box	No	25	Beverages	0
+Supplier A	82	NWTC-82	Northwind Traders Granola		$2.00	$4.00	20	100		No		Cereal	0
+Supplier I	83	NWTCS-83	Northwind Traders Potato Chips		$0.50	$1.80	30	200		No		Chips, Snacks	0
+Supplier A	85	NWTBGM-85	Northwind Traders Brownie Mix		$9.00	$12.49	10	20	3 boxes	No	5	Baked Goods & Mixes	0
+Supplier A	86	NWTBGM-86	Northwind Traders Cake Mix		$10.50	$15.99	10	20	4 boxes	No	5	Baked Goods & Mixes	0
+Supplier G	87	NWTB-87	Northwind Traders Tea		$2.00	$4.00	20	50	100 count per box	No		Beverages	0
+Supplier F	88	NWTCFV-88	Northwind Traders Pears		$1.00	$1.30	10	40	15.25 OZ	No		Canned Fruit & Vegetables	0
+Supplier F	89	NWTCFV-89	Northwind Traders Peaches		$1.00	$1.50	10	40	15.25 OZ	No		Canned Fruit & Vegetables	0
+Supplier F	90	NWTCFV-90	Northwind Traders Pineapple		$1.00	$1.80	10	40	15.25 OZ	No		Canned Fruit & Vegetables	0
+Supplier F	91	NWTCFV-91	Northwind Traders Cherry Pie Filling		$1.00	$2.00	10	40	15.25 OZ	No		Canned Fruit & Vegetables	0
+Supplier F	92	NWTCFV-92	Northwind Traders Green Beans		$1.00	$1.20	10	40	14.5 OZ	No		Canned Fruit & Vegetables	0
+Supplier F	93	NWTCFV-93	Northwind Traders Corn		$1.00	$1.20	10	40	14.5 OZ	No		Canned Fruit & Vegetables	0
+Supplier F	94	NWTCFV-94	Northwind Traders Peas		$1.00	$1.50	10	40	14.5 OZ	No		Canned Fruit & Vegetables	0
+Supplier G	95	NWTCM-95	Northwind Traders Tuna Fish		$0.50	$2.00	30	50	5 oz	No		Canned Meat	0
+Supplier G	96	NWTCM-96	Northwind Traders Smoked Salmon		$2.00	$4.00	30	50	5 oz	No		Canned Meat	0
+Supplier A	97	NWTC-82	Northwind Traders Hot Cereal		$3.00	$5.00	50	200		No		Cereal	0
+Supplier F	98	NWTSO-98	Northwind Traders Vegetable Soup		$1.00	$1.89	100	200		No		Soups	0
+Supplier F	99	NWTSO-99	Northwind Traders Chicken Soup		$1.00	$1.95	100	200		No		Soups	0
