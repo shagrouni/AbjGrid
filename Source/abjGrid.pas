@@ -16,6 +16,29 @@
 {$IFDEF VER170}
 {$DEFINE VER9U}
 {$ENDIF}
+{$IFDEF VER180}
+{$DEFINE VER10U}
+{$ENDIF}
+
+{$IFDEF VER185}
+{$DEFINE VER11U}
+{$ENDIF}
+{$IFDEF VER190}
+{$DEFINE VER11U}
+{$ENDIF}
+{$IFDEF VER200}
+{$DEFINE VER12U}
+{$ENDIF}
+
+{$IFDEF VER210}
+{$DEFINE VER14U}
+{$ENDIF}
+
+{$IFDEF VER220}
+{$DEFINE VER15U}
+{$ENDIF}
+
+
 unit abjGrid {$IFDEF VER8U} platform {$ENDIF};
 
 {
@@ -3093,7 +3116,11 @@ begin
             begin
               txt := MonthDayYearFormat(txt);
               xlSheet.Range['A4:Z4'].Cells[ARow, ACol + 1].NumberFormat :=
+                {$IF CompilerVersion >= 22.0}
+                'yyyy' + FormatSettings.DateSeparator + 'mm' + FormatSettings.DateSeparator + 'dd';
+                {$ELSE}
                 'yyyy' + DateSeparator + 'mm' + DateSeparator + 'dd';
+                {$ENDIF}
             end;
           end;
           if Trim(txt) = '' then
